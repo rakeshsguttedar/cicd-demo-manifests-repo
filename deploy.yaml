@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: todo
-        image: rockondock/cicd-e2e:4
+        image: rockondock/cicd-e2e:6
         ports:
         - containerPort: 8000
